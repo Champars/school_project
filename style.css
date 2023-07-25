@@ -1,0 +1,53 @@
+body {
+    background-color: seagreen;
+    color: wheat;
+    text-align: center;
+    font-family: 'MedievalSharp', cursive;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    font-family: 'MedievalSharp', cursive;
+    border: ridge red 10px;
+    background: dimgrey;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    font-size: 30px;
+}
+
+textarea {
+    background-color: black;
+    color: antiquewhite;
+}
+
+button {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.z {
+    width: 390px;
+    height: 350px;
+}
+
+.container {
+    font-size: 20px;
+}
+
+#z {
+    width: 390px;
+    height: 250px;
+}
+
+canvas {
+    border: ridge black 10px;
+}
+
+a {
+    color: black;
+}
